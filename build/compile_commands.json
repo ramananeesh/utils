@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/spdlog.cpp",
+  "file": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/spdlog.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o"
+},
+{
+  "directory": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "file": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o"
+},
+{
+  "directory": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "file": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o"
+},
+{
+  "directory": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "file": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o"
+},
+{
+  "directory": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/async.cpp",
+  "file": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/async.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o"
+},
+{
+  "directory": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/cfg.cpp",
+  "file": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/cfg.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o"
+},
+{
+  "directory": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-build",
+  "command": "/usr/bin/c++ -DSPDLOG_COMPILED_LIB -I/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "file": "/scratchSSD/aneeshr/utils/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o"
+}
+]
