@@ -9,11 +9,7 @@ set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
 
 add_subdirectory(external)
 
-add_library(utilities OBJECT 
-    ${CMAKE_SOURCE_DIR}/lib/stats/stats.h
-    ${CMAKE_SOURCE_DIR}/lib/stats/stats_printer.h
-    ${CMAKE_SOURCE_DIR}/lib/timer/timer.h
-)
+add_library(utilities INTERFACE)
 
 target_compile_features(utilities PUBLIC cxx_std_11)
 
