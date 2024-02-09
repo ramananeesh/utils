@@ -19,7 +19,6 @@ target_compile_features(utilities PUBLIC cxx_std_11)
 
 target_link_libraries(utilities PUBLIC 
     spdlog::spdlog
-    cxxopts
     tabulate
 )
 
