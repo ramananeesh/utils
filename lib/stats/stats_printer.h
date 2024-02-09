@@ -1,7 +1,7 @@
 #ifndef STATS_PRINTER_H
 #define STATS_PRINTER_H
+#include <lib/stats/stats.h>
 #include <spdlog/spdlog.h>
-#include <stats/stats.h>
 
 #include <map>
 #include <tabulate/table.hpp>
