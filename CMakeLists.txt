@@ -11,13 +11,13 @@ add_subdirectory(external)
 
 add_library(utilities INTERFACE)
 
-target_compile_features(utilities PUBLIC cxx_std_11)
+target_compile_features(utilities INTERFACE cxx_std_11)
 
-target_link_libraries(utilities PUBLIC 
+target_link_libraries(utilities INTERFACE 
     spdlog::spdlog
     tabulate
 )
 
-target_include_directories(utilities PUBLIC
+target_include_directories(utilities INTERFACE
     ${CMAKE_SOURCE_DIR}/lib
 )
